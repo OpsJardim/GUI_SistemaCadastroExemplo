@@ -117,7 +117,7 @@ public class JanelaPrincipal extends JFrame {
         dao.salvar(aluno);
 
         JOptionPane.showMessageDialog(this,
-                "Aluno cadastrado com sucesso no banco de dados!";
+                "Aluno cadastrado com sucesso no banco de dados!");
     }
 
     private void limparCampos(){
